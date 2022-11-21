@@ -3,8 +3,7 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 import cv2
 import os
-import random
-import pandas as pd
+
 
 tf.random.set_seed(1)
 
